@@ -1,3 +1,4 @@
+// One letter, at most 200 characters.
 // One letter, nothing else.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
